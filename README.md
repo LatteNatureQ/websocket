@@ -24,6 +24,6 @@ node app.js
 
 ```
 open index.html
-open index1.html
+open index2.html
 ```
 
