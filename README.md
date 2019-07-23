@@ -17,12 +17,13 @@ npm install
 ### Server Side
 
 ```
-npm run serve
+node app.js
 ```
 
 ### Client Side
 
 ```
-npm run client
+open index.html
+open index1.html
 ```
 
